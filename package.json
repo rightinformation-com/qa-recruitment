@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run:headed": "cypress run --headed"
+  },
+  "devDependencies": {
+    "cypress": "^15.13.1",
+    "typescript": "^5.8.3"
+  }
+}
