@@ -3,5 +3,6 @@ cypress/videos/
 cypress/screenshots/
 cypress/downloads/
 .idea/
+.playwright-mcp/
 *.log
 !cypress/fixtures/logs/*.log
